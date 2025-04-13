@@ -15,11 +15,6 @@ This project is a local simulation of a shopping cart system using the **Firebas
 ## 📁 Project Structure
 codelab-initial-state/ ├── functions/ # Cloud Functions │ ├── index.js # calculateCart() logic │ ├── test.js # Mocha test suite │ └── package.json ├── firestore.rules # Firestore security rules ├── firebase.json # Emulator config └── seed/ # Seed data for emulators
 
-yaml
-Copy
-Edit
-
-
 ---
 
 ## 🚀 Features
